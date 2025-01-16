@@ -5,9 +5,9 @@ En esta actividad trabajaremos con entornos de desarrollo:
 ----
 
 ## Indice:
-### [Creando entorno de desarrollo Eclipse con Docker](#Creando-entorno-de-desarrollo-Eclipse-con-Docker)
-### [Instalando extensiones en Visual Studio Code](#Instalando-extensiones-en-Visual-Studio-Code)
-### [Probando el entorno de Visual Studio Code](#Probando-el-entorno-de-Visual-Studio-Code)
+### [Creando entorno de desarrollo Eclipse con Docker](#creando-entorno-de-desarrollo-eclipse-con-docker-1)
+### [Instalando extensiones en Visual Studio Code](#instalando-extensiones-en-visual-studio-code-1)
+### [Probando el entorno de Visual Studio Code](#probando-el-entorno-de-visual-studio-code-1)
 
 ----
 ## Creando entorno de desarrollo Eclipse con Docker
